@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "宇宙飛行士への手紙",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-03-01T12:54:26.967222Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "宇宙飛行士への手紙",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/01_宇宙飛行士への手紙_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "宇宙飛行士への手紙",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_宇宙飛行士への手紙_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "宇宙飛行士への手紙 (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY2 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_宇宙飛行士への手紙_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY2_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "宇宙飛行士への手紙 (A Letter to the Cosmonaut)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_宇宙飛行士への手紙_(A_Letter_to_the_Cosmonaut)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宇宙飛行士への手紙",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_宇宙飛行士への手紙_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
